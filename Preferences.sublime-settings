@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"draw_white_space": "all",
+	"font_face": "Consolas, monospace",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"theme": "Default.sublime-theme"
+}

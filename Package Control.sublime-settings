@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"CodeFormatter",
+		"Color Scheme - saulhudson",
+		"CSS Format",
+		"CSS3",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"SassSolution",
+		"SCSS",
+		"SideBarEnhancements",
+		"Twig"
+	]
+}
